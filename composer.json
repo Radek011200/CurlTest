@@ -15,6 +15,6 @@
         }
     ],
     "require": {
-        "radek011200/curl-client-php": "dev-main"
+        "radek011200/curl-client-php": "^1.0"
     }
 }

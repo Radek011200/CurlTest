@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "c6cadede9503cc8ccdf59d762e5fa00c",
+    "content-hash": "dc7b2d191e85ea30ff3a1d8685a66c53",
     "packages": [
         {
             "name": "guzzlehttp/psr7",
@@ -235,16 +235,16 @@
         },
         {
             "name": "radek011200/curl-client-php",
-            "version": "dev-main",
+            "version": "1.0.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Radek011200/RClientCurl.git",
-                "reference": "db57b50f9dfd7024f0bf13f3c29e0dae6f3295aa"
+                "reference": "f66d336657245352bde2d806afcf7bb718e8bfff"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Radek011200/RClientCurl/zipball/db57b50f9dfd7024f0bf13f3c29e0dae6f3295aa",
-                "reference": "db57b50f9dfd7024f0bf13f3c29e0dae6f3295aa",
+                "url": "https://api.github.com/repos/Radek011200/RClientCurl/zipball/f66d336657245352bde2d806afcf7bb718e8bfff",
+                "reference": "f66d336657245352bde2d806afcf7bb718e8bfff",
                 "shasum": ""
             },
             "require": {
@@ -255,7 +255,6 @@
             "require-dev": {
                 "phpunit/phpunit": "10.0.x-dev"
             },
-            "default-branch": true,
             "type": "library",
             "autoload": {
                 "psr-4": {
@@ -275,9 +274,9 @@
             "description": "Curl based on rest client library",
             "support": {
                 "issues": "https://github.com/Radek011200/RClientCurl/issues",
-                "source": "https://github.com/Radek011200/RClientCurl/tree/main"
+                "source": "https://github.com/Radek011200/RClientCurl/tree/v1.0.3"
             },
-            "time": "2023-01-30T19:21:30+00:00"
+            "time": "2023-02-21T19:47:59+00:00"
         },
         {
             "name": "ralouphie/getallheaders",
@@ -327,9 +326,7 @@
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "radek011200/curl-client-php": 20
-    },
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],
