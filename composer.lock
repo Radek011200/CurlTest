@@ -235,16 +235,16 @@
         },
         {
             "name": "radek011200/curl-client-php",
-            "version": "1.0.3",
+            "version": "1.0.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Radek011200/RClientCurl.git",
-                "reference": "f66d336657245352bde2d806afcf7bb718e8bfff"
+                "reference": "f9a7300012a05c775feb7f1ed41cb5985fd3f706"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Radek011200/RClientCurl/zipball/f66d336657245352bde2d806afcf7bb718e8bfff",
-                "reference": "f66d336657245352bde2d806afcf7bb718e8bfff",
+                "url": "https://api.github.com/repos/Radek011200/RClientCurl/zipball/f9a7300012a05c775feb7f1ed41cb5985fd3f706",
+                "reference": "f9a7300012a05c775feb7f1ed41cb5985fd3f706",
                 "shasum": ""
             },
             "require": {
@@ -274,9 +274,9 @@
             "description": "Curl based on rest client library",
             "support": {
                 "issues": "https://github.com/Radek011200/RClientCurl/issues",
-                "source": "https://github.com/Radek011200/RClientCurl/tree/v1.0.3"
+                "source": "https://github.com/Radek011200/RClientCurl/tree/v1.0.5"
             },
-            "time": "2023-02-21T19:47:59+00:00"
+            "time": "2023-02-21T22:43:58+00:00"
         },
         {
             "name": "ralouphie/getallheaders",
